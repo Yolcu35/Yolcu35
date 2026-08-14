@@ -1,16 +1,16 @@
-## Hi there 👋
+# SetFilmizle CloudStream Provider
 
-<!--
-**Yolcu35/Yolcu35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CloudStream provider iskeleti. Bu sürüm metadata ve sayfa ayrıştırma katmanını
+oluşturmak için hazırlanmıştır.
 
-Here are some ideas to get you started:
+## Durum
+- Provider sınıfı: hazır iskelet
+- Arama: hazırlanacak
+- Film/dizi detay ayrıştırma: hazırlanacak
+- Sezon/bölüm: hazırlanacak
+- Stream extractor: yalnızca izinli/açık kaynaklar için eklenebilir
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Not
+CloudStream resmi proje dokümantasyonuna göre eklentiler Kotlin tabanlıdır.
+Bu proje telifli içeriğin yetkisiz erişimini veya DRM/erişim kontrollerinin
+aşılmasını amaçlamaz.
